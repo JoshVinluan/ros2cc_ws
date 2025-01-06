@@ -1,0 +1,23 @@
+[0.573s] Invoking command in '/home/josh/Desktop/ros2cc_ws/build/my_robot_controller': PYTHONPATH=/home/josh/Desktop/ros2cc_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/josh/Desktop/ros2cc_ws/install/my_robot_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/josh/Desktop/ros2cc_ws/build/my_robot_controller/build --no-deps symlink_data
+[0.730s] /home/josh/.local/lib/python3.8/site-packages/setuptools/dist.py:717: UserWarning: Usage of dash-separated 'script-dir' will not be supported in future versions. Please use the underscore name 'script_dir' instead
+[0.730s]   warnings.warn(
+[0.764s] running develop
+[0.864s] running egg_info
+[0.865s] writing my_robot_controller.egg-info/PKG-INFO
+[0.866s] writing dependency_links to my_robot_controller.egg-info/dependency_links.txt
+[0.866s] writing entry points to my_robot_controller.egg-info/entry_points.txt
+[0.866s] writing requirements to my_robot_controller.egg-info/requires.txt
+[0.871s] writing top-level names to my_robot_controller.egg-info/top_level.txt
+[0.876s] reading manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.881s] writing manifest file 'my_robot_controller.egg-info/SOURCES.txt'
+[0.919s] running build_ext
+[0.919s] Creating /home/josh/Desktop/ros2cc_ws/install/my_robot_controller/lib/python3.8/site-packages/my-robot-controller.egg-link (link to .)
+[0.934s] Installing draw_circle script to /home/josh/Desktop/ros2cc_ws/install/my_robot_controller/lib/my_robot_controller
+[0.934s] Installing pose_subscriber script to /home/josh/Desktop/ros2cc_ws/install/my_robot_controller/lib/my_robot_controller
+[0.936s] Installing test_node script to /home/josh/Desktop/ros2cc_ws/install/my_robot_controller/lib/my_robot_controller
+[0.936s] Installing theta_controller script to /home/josh/Desktop/ros2cc_ws/install/my_robot_controller/lib/my_robot_controller
+[0.936s] Installing turtle_controller script to /home/josh/Desktop/ros2cc_ws/install/my_robot_controller/lib/my_robot_controller
+[0.936s] 
+[0.936s] Installed /home/josh/Desktop/ros2cc_ws/build/my_robot_controller
+[0.936s] running symlink_data
+[0.997s] Invoked command in '/home/josh/Desktop/ros2cc_ws/build/my_robot_controller' returned '0': PYTHONPATH=/home/josh/Desktop/ros2cc_ws/build/my_robot_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/josh/Desktop/ros2cc_ws/install/my_robot_controller/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/josh/Desktop/ros2cc_ws/build/my_robot_controller/build --no-deps symlink_data
